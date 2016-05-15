@@ -5,4 +5,5 @@ main()
 	printf("master show");
 	printf("story show first");
 	printf("story show second");
+	printf("story master");
 }
