@@ -3,4 +3,5 @@ main()
 {
 	printf("hello world");
 	printf("master show");
+	printf("story show");
 }
