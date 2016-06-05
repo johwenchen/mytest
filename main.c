@@ -7,4 +7,5 @@ main()
 	printf("story show second");
 	printf("story master");
 	printf("commit 3");
+	printf("commit 3 from ec");
 }
